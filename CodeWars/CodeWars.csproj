@@ -40,6 +40,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Katas\24.03.2022\CountingDuplicates.cs" />
+        <Compile Include="Katas\25.03.2022\SumOfOddNumbers.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>

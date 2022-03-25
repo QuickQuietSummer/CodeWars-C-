@@ -4,8 +4,21 @@
     &lt;TestId&gt;NUnit3x::A4E7A3AB-E95C-44EB-B80E-3D136F97374E::.NETFramework,Version=v4.8::CodeWars.Test.Tests._24._03._2022.CountingDuplicatesTest.KataTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5b21b459_002Dbb11_002D4874_002Db7bc_002Decb4dad70538/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="KataTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5b21b459_002Dbb11_002D4874_002Db7bc_002Decb4dad70538/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="KataTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A4E7A3AB-E95C-44EB-B80E-3D136F97374E::.NETFramework,Version=v4.8::CodeWars.Test.Tests._24._03._2022.CountingDuplicatesTest.KataTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A4E7A3AB-E95C-44EB-B80E-3D136F97374E::.NETFramework,Version=v4.8::CodeWars.Test.Tests._25._03._2022.SumOfOddNumbersTest.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=961b43ca_002Ddd51_002D47a0_002Db6ee_002D7875999c645b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="KataTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A4E7A3AB-E95C-44EB-B80E-3D136F97374E::.NETFramework,Version=v4.8::CodeWars.Test.Tests._24._03._2022.CountingDuplicatesTest.KataTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A4E7A3AB-E95C-44EB-B80E-3D136F97374E::.NETFramework,Version=v4.8::CodeWars.Test.Tests._25._03._2022.SumOfOddNumbersTest.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e81cbbcf_002Da91c_002D4d5b_002D9c19_002Da5dc4098a74f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="KataTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A4E7A3AB-E95C-44EB-B80E-3D136F97374E::.NETFramework,Version=v4.8::CodeWars.Test.Tests._24._03._2022.CountingDuplicatesTest.KataTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A4E7A3AB-E95C-44EB-B80E-3D136F97374E::.NETFramework,Version=v4.8::CodeWars.Test.Tests._25._03._2022.SumOfOddNumbersTest.Test1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
