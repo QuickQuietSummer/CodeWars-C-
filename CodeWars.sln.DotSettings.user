@@ -1,27 +1,4 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1b72ca04_002D0a72_002D44b8_002Db922_002D845c85c5750a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="KataTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::A4E7A3AB-E95C-44EB-B80E-3D136F97374E::.NETFramework,Version=v4.8::CodeWars.Test.Tests._24._03._2022.CountingDuplicatesTest.KataTests&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5b21b459_002Dbb11_002D4874_002Db7bc_002Decb4dad70538/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="KataTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::A4E7A3AB-E95C-44EB-B80E-3D136F97374E::.NETFramework,Version=v4.8::CodeWars.Test.Tests._24._03._2022.CountingDuplicatesTest.KataTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::A4E7A3AB-E95C-44EB-B80E-3D136F97374E::.NETFramework,Version=v4.8::CodeWars.Test.Tests._25._03._2022.SumOfOddNumbersTest.Test1&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=961b43ca_002Ddd51_002D47a0_002Db6ee_002D7875999c645b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="KataTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::A4E7A3AB-E95C-44EB-B80E-3D136F97374E::.NETFramework,Version=v4.8::CodeWars.Test.Tests._24._03._2022.CountingDuplicatesTest.KataTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::A4E7A3AB-E95C-44EB-B80E-3D136F97374E::.NETFramework,Version=v4.8::CodeWars.Test.Tests._25._03._2022.SumOfOddNumbersTest.Test1&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e81cbbcf_002Da91c_002D4d5b_002D9c19_002Da5dc4098a74f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="KataTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Or&gt;&#xD;
-    &lt;TestAncestor&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::A4E7A3AB-E95C-44EB-B80E-3D136F97374E::.NETFramework,Version=v4.8::CodeWars.Test.Tests._24._03._2022.CountingDuplicatesTest.KataTests&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::A4E7A3AB-E95C-44EB-B80E-3D136F97374E::.NETFramework,Version=v4.8::CodeWars.Test.Tests._25._03._2022.SumOfOddNumbersTest.Test1&lt;/TestId&gt;&#xD;
-    &lt;/TestAncestor&gt;&#xD;
-    &lt;ProjectFile&gt;A4E7A3AB-E95C-44EB-B80E-3D136F97374E/d:Tests/d:26.03.2022/f:StopGninnipsMySdrowTest.cs&lt;/ProjectFile&gt;&#xD;
-  &lt;/Or&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0def2672_002De5eb_002D4301_002Db89a_002D4cf93f629b68/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

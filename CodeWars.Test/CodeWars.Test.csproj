@@ -46,6 +46,7 @@
         <Compile Include="Tests\24.03.2022\CountingDuplicatesTest.cs" />
         <Compile Include="Tests\25.03.2022\SumOfOddNumbersTest.cs" />
         <Compile Include="Tests\26.03.2022\StopGninnipsMySdrowTest.cs" />
+        <Compile Include="Tests\28.03.2022\MorseCodeDecoderTest.cs" />
     </ItemGroup>
     <ItemGroup>
       <ProjectReference Include="..\CodeWars\CodeWars.csproj">
@@ -57,6 +58,7 @@
       <Content Include="Tests\24.03.2022\CountingDuplicatesTest.txt" />
       <Content Include="Tests\25.03.2022\SumOfOddNumbersTest.txt" />
       <Content Include="Tests\26.03.2022\StopGninnipsMySdrowTest.txt" />
+      <Content Include="Tests\28.03.2022\MorseCodeDecoderTest.txt" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
